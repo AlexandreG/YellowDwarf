@@ -1,0 +1,121 @@
+
+menuSkin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+red_button
+  rotate: false
+  xy: 1, 1
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+pause_button_click
+  rotate: false
+  xy: 54, 1
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+pause_button
+  rotate: false
+  xy: 106, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+grey_button
+  rotate: false
+  xy: 158, 3
+  size: 49, 49
+  split: 5, 5, 6, 9
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+red_button_click
+  rotate: false
+  xy: 209, 5
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+yellow_button
+  rotate: false
+  xy: 262, 3
+  size: 49, 49
+  split: 5, 5, 4, 9
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+darkAudio
+  rotate: false
+  xy: 313, 4
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+grey_button_click
+  rotate: false
+  xy: 363, 7
+  size: 49, 45
+  split: 5, 5, 4, 5
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+menu_box
+  rotate: false
+  xy: 414, 7
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+menu_box_click
+  rotate: false
+  xy: 465, 7
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+menu_box_selected
+  rotate: false
+  xy: 516, 7
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+yellow_button_click
+  rotate: false
+  xy: 567, 7
+  size: 49, 45
+  split: 5, 5, 5, 5
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+checkbox
+  rotate: false
+  xy: 618, 16
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+checkboxok
+  rotate: false
+  xy: 658, 16
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+grey_box
+  rotate: false
+  xy: 698, 16
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+grey_box_selected
+  rotate: false
+  xy: 736, 16
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

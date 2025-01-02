@@ -1,0 +1,6 @@
+{
+    //The progress bar of the splash screen
+    "com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle": {
+        "splashScreenBar": { "background": "progressBarEmpty", "knobBefore": "progressBarFull" },
+    }
+}

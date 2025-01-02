@@ -1,0 +1,166 @@
+
+ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gametitle
+  rotate: false
+  xy: 1, 388
+  size: 670, 120
+  orig: 670, 120
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 1, 273
+  size: 621, 113
+  orig: 621, 113
+  offset: 0, 0
+  index: -1
+ready
+  rotate: false
+  xy: 1, 140
+  size: 513, 131
+  orig: 513, 131
+  offset: 0, 0
+  index: -1
+paused
+  rotate: false
+  xy: 1, 1
+  size: 504, 137
+  orig: 504, 137
+  offset: 0, 0
+  index: -1
+leaderboard
+  rotate: false
+  xy: 673, 408
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+locked
+  rotate: false
+  xy: 516, 171
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 775, 408
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 877, 444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+option
+  rotate: false
+  xy: 943, 444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+return
+  rotate: false
+  xy: 624, 322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+achievement
+  rotate: false
+  xy: 624, 264
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+jumper
+  rotate: false
+  xy: 618, 202
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+separator
+  rotate: false
+  xy: 516, 165
+  size: 100, 4
+  orig: 100, 4
+  offset: 0, 0
+  index: -1
+tap1
+  rotate: false
+  xy: 690, 347
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+tap2
+  rotate: false
+  xy: 690, 286
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 751, 342
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+question
+  rotate: false
+  xy: 793, 342
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+music_off
+  rotate: false
+  xy: 751, 292
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+music_on
+  rotate: false
+  xy: 835, 358
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+sound_off
+  rotate: false
+  xy: 618, 152
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+sound_on
+  rotate: false
+  xy: 801, 292
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+medalGold
+  rotate: false
+  xy: 516, 127
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+medalGoldLocked
+  rotate: false
+  xy: 554, 127
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,70 @@
+{
+        //Ostrich Black 34B
+    "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+        "ostrichBlack34B": { "file": "fonts/ostrichBlack34B.fnt" },
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+        "defaultTextMedium": { "font": ostrichBlack34B}
+    },
+        //Ostrich Black 38
+    "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+        "ostrichBlack38": { "file": "fonts/ostrichBlack38.fnt" },
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+        "defaultTextSmall": { "font": ostrichBlack38}
+    },
+
+        //Ostrich Black 38B
+    "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+        "ostrichBlack48B": { "file": "fonts/ostrichBlack48B.fnt" },
+    },
+
+    //Global yellow image button style
+    "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": { 
+        "yellowButton": {"up": "yellow_button" , "down": "yellow_button_click", "pressedOffsetY": -4 }
+    },
+    //Global grey image button style
+    "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": { 
+        "greyButton": { "up": "grey_button" , "down": "grey_button_click", "pressedOffsetY": -4 }
+    },
+    //Global red image button style
+    "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": { 
+        "redButton": { "up": "red_button" , "down": "red_button_click", "pressedOffsetY": -4 }
+    },
+    
+    //Tab menu button style
+    "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": { 
+        "menuButton": { "checked": "menu_box_selected" , "up": "menu_box" , "down": "menu_box_click", "pressedOffsetY": -4 }
+    },
+    //Pause button
+    "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": { 
+        "pauseButton": {"up": "pause_button" , "down": "pause_button_click", "pressedOffsetY": -4 }
+    },
+
+    //Music/Sound button
+    "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": { 
+        "audioButton": { "checked": "darkAudio" , "up": "darkAudio" , "down": "darkAudio", "pressedOffsetY": 0 }
+    },
+
+    //Yellow Text button
+    "com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle": {
+        "yellowTextButton": { "font": ostrichBlack48B, "up": "yellow_button" , "down": "yellow_button_click", "pressedOffsetY": -4 }
+    },
+    //Grey Text button
+    "com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle": {
+        "greyTextButton": { "font": ostrichBlack48B, "up": "grey_button" , "down": "grey_button_click", "pressedOffsetY": -4 }
+    },
+    //The font of the game over score
+    "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+        "scoreGameOverStyle": { "font": ostrichBlack48B}
+    },
+    //Radio buttons
+    "com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle": {
+        "radioButtonStyle": { "checkboxOn": "grey_box_selected", "checkboxOff": "grey_box", "font": ostrichBlack38}
+    },
+    //CheckBox menu
+    "com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle": {
+        "checkboxStyle": { "checkboxOn": "checkboxok", "checkboxOff": "checkbox", "font": ostrichBlack48B}
+    }
+
+}
